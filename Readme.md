@@ -4,7 +4,7 @@ _Or how to get looks-good-to-me on your pull request seven times faster_
 
 This is a generalized version of a checklist, I’ve created for my colleagues at Wayfair. Feel free to fork it and adapt to your team’s needs.
 
-# Before you start
+## Before you start
 
 1. Setup your environment to have immediate feedback on your changes:
 
@@ -15,11 +15,11 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 
 2. Read your team’s coding standards and style guides.
 
-# JavaScript
+## JavaScript
 
 - JavaScript code is following team standards.
 
-# HTML
+## HTML
 
 - All code is [WCAG Level AA](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html) compliant.
   - _See [tools and techniques to use to test accessibility](https://daverupert.com/2018/07/assistive-technologies-i-test-with/)._
@@ -35,7 +35,7 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - UI looks good on any screen size (mobile, desktop, etc.).
 - UI looks good with 200% page zoom.
 
-# CSS
+## CSS
 
 - CSS code is following team standards.
 - No hardcoded colors, font sizes, whitespace, breakpoints and z-indices.
@@ -44,12 +44,12 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - No unnecessary CSS, ideally there’s no CSS at all.
   - _For example, prefer to use primitive and layout components instead of custom styles._
 
-# Tests
+## Tests
 
 - Add tests for new functionality.
   - _For example, add unit tests for tricky code and regression tests for bugs._
 
-# Before sending code to review
+## Before sending code to review
 
 - Read the ticket one more time and make sure everything is done as requested.
 - Do a self review: carefully read all the code before opening a pull request. Think what kind of issues a reviewer may find in your code, what kind of questions they may have, what’s not clear. This alone can save you several review iterations and days in review.
@@ -62,7 +62,7 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - No new errors and warning in the browser console.
 - All code is formatted with Prettier.
 
-# Pull request
+## Pull request
 
 - Add screenshots or GIFs for any UI changes. This will help the person reviewing your code to understand what you’ve changed and how it works.
   - _Hint: use [Kap](https://getkap.co/) or [Licecap](https://www.cockos.com/licecap/) to record your screen._
@@ -72,7 +72,7 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
   - testing you have done or plan to do before release;
   - any pull request that are dependent on this one, or any tickets on which this pull request depends.
 
-# Code review
+## Code review
 
 - Ask to people to review your code:
   - a person who knows the domain well and can spot bugs in the business logic;
@@ -84,39 +84,39 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - Avoid writing comment like "done" of "fixed" on each code review comment. Reviewers assume you’ll do all suggested changes, unless you have a reason not to do some of them.
 - Sometimes it’s okay to postpone changes — in this case you’ll need to add a ticket number to the pull request and to the code itself.
 
-# Asking help
+## Asking help
 
 - It’s okay if you don’t understand some of the code review comments. Don’t hesitate to ask questions in the pull request, or ping the reviewer directly.
 
-# Resources
+## Resources
 
-# Code reviews
+### Code reviews
 
 - [How to get your code reviewed faster](https://blog.sapegin.me/all/faster-code-reviews)
 
-# JavaScript
+### JavaScript
 
 - [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/)
 - [Washing your code: write once, read seven times](https://leanpub.com/washingcode/)
 
-# React
+### React
 
 - [React docs](https://reactjs.org/docs/getting-started.html) (it’s one of the best resources)
 - [The Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
-# HTML
+### HTML
 
 - [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
-# Accessibility
+### Accessibility
 
 - [A Short Guide to Screen Reader Friendly Code](https://benrobertson.io/accessibility/screen-reader-friendly-code-guide)
 - [Accessible to all](https://web.dev/accessible)
 - [Assistive Technologies I Test With](https://daverupert.com/2018/07/assistive-technologies-i-test-with/)
 
-# Testing
+### Testing
 
 - [Modern React testing, part 1: best practices](https://blog.sapegin.me/all/react-testing-1-best-practices/)
 - [What’s wrong with snapshot tests](https://blog.sapegin.me/all/snapshot-tests/)
