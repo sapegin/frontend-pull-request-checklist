@@ -110,6 +110,10 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 
 - [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
+### CSS
+
+- [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+
 ### Accessibility
 
 - [A Short Guide to Screen Reader Friendly Code](https://benrobertson.io/accessibility/screen-reader-friendly-code-guide)
