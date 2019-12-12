@@ -118,6 +118,7 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 
 - [A Short Guide to Screen Reader Friendly Code](https://benrobertson.io/accessibility/screen-reader-friendly-code-guide)
 - [Accessible to all](https://web.dev/accessible)
+- [Accessibility Tips for Web Developers](https://dev.to/addyosmani/accessibility-tips-for-web-developers-4cn0)
 - [Assistive Technologies I Test With](https://daverupert.com/2018/07/assistive-technologies-i-test-with/)
 
 ### Testing
