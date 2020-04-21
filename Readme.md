@@ -24,7 +24,7 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - All code is [WCAG Level AA](https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html) compliant.
   - _See [tools and techniques to use to test accessibility](https://daverupert.com/2018/07/assistive-technologies-i-test-with/)._
 - Semantic tags are used where possible instead of `div`s and `span`s (headings, paragraphs, lists, etc.)
-  - _See [Semantic HTML Tutorial](https://internetingishard.com/html-and-css/semantic-html/) for some examples._
+  - _See [Semantic HTML Tutorial](https://www.internetingishard.com/html-and-css/semantic-html/) for some examples._
 - All interactive elements (links, buttons, form elements) are keyboard accessible and have visible focus states.
 - Tab order of all interactive elements follows a logical pattern, usually their position on the screen and order in the DOM.
 - All non-standard elements have appropriate ARIA roles.
