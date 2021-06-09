@@ -49,6 +49,13 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - Add tests for new functionality.
   - _For example, add unit tests for tricky code and regression tests for bugs._
 
+## Documentation
+
+- Document exposed API in a README or relevant documents.
+- Use [ADR](https://github.com/joelparkerhenderson/architecture_decision_record) to keep track on architectural decisions.
+- Use [UML diagrams](https://en.wikipedia.org/wiki/Unified_Modeling_Language) for complex flows.
+  - _Hint: [PlantUML](https://plantuml.com/) can be a good starting point._
+
 ## Before sending code to review
 
 - Read the ticket one more time and make sure everything is done as requested.
