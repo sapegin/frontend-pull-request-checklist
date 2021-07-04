@@ -51,10 +51,7 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 
 ## Documentation
 
-- Document exposed API in a README or relevant documents.
-- Use [ADR](https://github.com/joelparkerhenderson/architecture_decision_record) to keep track on architectural decisions.
-- Use [UML diagrams](https://en.wikipedia.org/wiki/Unified_Modeling_Language) for complex flows.
-  - _Hint: [PlantUML](https://plantuml.com/) can be a good starting point._
+- Make sure that the documentation and comments are up to date after your changes, document any new APIs.
 
 ## Before sending code to review
 
