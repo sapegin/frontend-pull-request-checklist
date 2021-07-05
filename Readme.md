@@ -49,6 +49,10 @@ This is a generalized version of a checklist, I’ve created for my colleagues a
 - Add tests for new functionality.
   - _For example, add unit tests for tricky code and regression tests for bugs._
 
+## Documentation
+
+- Make sure that the documentation and comments are up to date after your changes, document any new APIs.
+
 ## Before sending code to review
 
 - Read the ticket one more time and make sure everything is done as requested.
