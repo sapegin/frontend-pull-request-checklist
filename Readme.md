@@ -4,6 +4,8 @@ _Or how to get looks-good-to-me on your pull request seven times faster_
 
 This is a generalized version of a checklist, I’ve created for my colleagues at Wayfair. Feel free to fork it and adapt to your team’s needs.
 
+[![Washing your code. A book on clean code for frontend developers](https://sapegin.me/images/washing-code-github.jpg)](https://sapegin.me/book/)
+
 ## Before you start
 
 1. Setup your environment to have immediate feedback on your changes:
@@ -143,6 +145,6 @@ Improvements are welcome! Open an issue or send a pull request.
 
 ## Author and license
 
-[Artem Sapegin](http://sapegin.me/), a frontend engineer at [Omio](https://omio.com/) and the creator of [React Styleguidist](https://react-styleguidist.js.org/). I also write about frontend at [my blog](https://blog.sapegin.me/).
+[Artem Sapegin](http://sapegin.me/), a frontend engineer at Stage+ and the creator of [React Styleguidist](https://react-styleguidist.js.org/). I also write about frontend at [my blog](https://blog.sapegin.me/).
 
 CC0 1.0 Universal license, see the included [License.md](/License.md) file.
